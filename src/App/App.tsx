@@ -6,7 +6,7 @@ import {
 } from 'react-hot-loader';
 import '@flexis/ui/reboot.st.css';
 import Header from './Header';
-import A from '~/containers/A/A';
+import A from '~/containers/A/loadable';
 import B from '~/containers/B/loadable';
 import Link from '~/components/Link';
 import Block from '~/components/Block';
