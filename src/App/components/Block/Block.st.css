@@ -1,0 +1,12 @@
+
+.root {
+	position: relative;
+}
+
+.decoration {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	/* stylelint-disable-next-line */
+	color: aqua;
+}
