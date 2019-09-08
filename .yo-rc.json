@@ -1,0 +1,28 @@
+{
+  "generator-trigen-app": {
+    "editPackage": true,
+    "pkg": {
+      "name": "stylable-bugs-example",
+      "version": "1.0.0",
+      "description": "",
+      "repository": "'",
+      "author": "dangreen",
+      "license": "MIT"
+    },
+    "editWebman": true,
+    "webman": {
+      "name": "stylable-bugs-example",
+      "short_name": "stylable-bugs-example",
+      "description": "",
+      "dir": "auto",
+      "lang": "en-US",
+      "display": "standalone",
+      "orientation": "portrait",
+      "scope": "/",
+      "start_url": "/?homescreen=1",
+      "background_color": "red",
+      "theme_color": "red"
+    },
+    "gitInit": true
+  }
+}
