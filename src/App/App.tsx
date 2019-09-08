@@ -6,7 +6,7 @@ import {
 } from 'react-hot-loader';
 import '@flexis/ui/reboot.st.css';
 import Header from './Header';
-import A from '~/containers/A/loadable';
+import A from '~/containers/A/A';
 import B from '~/containers/B/loadable';
 
 @hot(module)

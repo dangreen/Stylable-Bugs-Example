@@ -1,7 +1,6 @@
 import React, {
 	Component
 } from 'react';
-import Link from '../Link';
 import ContactLink from '../ContactLink';
 import {
 	style,
@@ -30,7 +29,7 @@ export default class Contacts extends Component<IProps> {
 			>
 				<li>
 					<h3>
-						<Link>Contacts:</Link>
+						Contacts:
 					</h3>
 				</li>
 				{items.map((item, i) => (
